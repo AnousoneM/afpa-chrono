@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@400;700&display=swap');
+
+
+body {
+    text-align: center;
+}
+
+#btn-pause {
+    display: none;
+}
+
+#btn-stop {
+    display: none;
+}
+
+#span-info {
+    font-family: 'Mohave', sans-serif;
+    font-size: 4rem;
+}
